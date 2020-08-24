@@ -13,5 +13,4 @@ When you execute notes -? you will get the following:
 
 ## Usage Examples
 
-
-## A portion of the .fav file  
+notes "Update the project README.md file to include Usage Examples"
