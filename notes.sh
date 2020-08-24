@@ -32,7 +32,4 @@ notes() {
     return;
     }
     [[ "${1}" != ""   ]] && { echo " ${_date} $* " >> .notes; return; }
-    # Based on the below aliases:
-    # alias notes='echo "  "$(date +%A,\ %B\ %d\ %l\:%M\ %p\:) $* >> .notes'  # add a dated note to ".notes" file for each project
-    # alias notess='grep -h "$1" .notes'                                    # show multiline notes in ".notes" file (changed ~/.notes to .notes)
 }
