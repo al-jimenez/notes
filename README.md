@@ -14,3 +14,5 @@ When you execute notes -? you will get the following:
 ## Usage Examples
 
 notes "Update the project README.md file to include Usage Examples"
+
+To list the file of notes then just type notes without parameters
