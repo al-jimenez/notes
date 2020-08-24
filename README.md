@@ -1,5 +1,5 @@
 # notes()
-notes is a Bash function - add project notes to the current folders in notes file
+This is a simple function that adds project notes to the current folders in .notes file
 
 ## Use
 Use this and customize it with your changes. I use this as a notes file to remind my old man brain what I have to do in the project in the current folder.
